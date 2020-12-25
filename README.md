@@ -1,2 +1,2 @@
 # Ineuron-assignments
-assignments 
+Assignment on python basics  
